@@ -1,10 +1,11 @@
 # Share-Knowledge
 
-Angular 8 is a client-side TypeScript based framework which is used to create dynamic web applications.
-
-The top 5 new features of Angular 8
-Differential loading. Differential loading is a new feature that lets you use version 8 of the Angular CLI to create two different production bundles of your app. ...
-New lazy loading syntax. ...
-Create web workers with the CLI. ...
-Builder and workspace APIs. ...
-A new guide for old features.
+Git Commands: How to add whole project Structure in git
+========================================================
+git init: initialize a git repository in your directory
+git status: check the status of the repository
+git add file_name: add one file
+git add .: add all files
+git commit -m “commit message”: commit your files along with a message
+git remote add origin https://github.com/username/reponame.git - the remote url to your GitHub repo
+git push origin master: push your files up to github on the master branch

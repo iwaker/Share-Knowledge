@@ -1,0 +1,3 @@
+<test:CourseDetailsRequest xmlns:test="http://tempuri.org/test.xsd">
+  <test:id>7</test:id>
+</test:CourseDetailsRequest>
